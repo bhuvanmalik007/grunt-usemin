@@ -634,4 +634,4 @@ This will, on the fly, generate the following configuration:
 
 ## License
 
-[BSD license](http://opensource.org/licenses/bsd-license.php) and copyright Google
+[BSD license](http://opensource.org/licenses/bsd-license.php)
