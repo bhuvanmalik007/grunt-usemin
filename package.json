@@ -1,6 +1,6 @@
 {
   "name": "bhuvan-grunt-usemin",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "BSD-2-Clause",
   "author": "Bhuvan Malik",
   "description": "Forked from grunt-usemin, replaces references to non-optimized scripts or stylesheets into a set of HTML files (or any templates/views)",
